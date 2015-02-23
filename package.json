@@ -1,0 +1,22 @@
+{
+  "name": "node-sass-imports",
+  "version": "0.1.0",
+  "description": "A simple script you can add to any task runner to determine what files are imported by a given sass file. Especially useful for watch tasks in grunt/gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stezu/node-sass-imports.git"
+  },
+  "author": "Stephen Zuniga <hello@stephenzuniga.com> (http://stephenzuniga.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stezu/node-sass-imports/issues"
+  },
+  "homepage": "https://npmjs.com/package/node-sass-imports",
+  "dependencies": {
+    "node-sass": "^2.0.1"
+  }
+}
