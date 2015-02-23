@@ -1,6 +1,6 @@
 {
   "name": "node-sass-imports",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple script you can add to any task runner to determine what files are imported by a given sass file. Especially useful for watch tasks in grunt/gulp.",
   "main": "index.js",
   "scripts": {
