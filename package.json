@@ -17,6 +17,5 @@
   },
   "homepage": "https://npmjs.com/package/node-sass-imports",
   "dependencies": {
-    "node-sass": "^2.0.1"
   }
 }
